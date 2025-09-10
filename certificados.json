@@ -1,0 +1,78 @@
+[
+    {
+        "titulo": "Crie um Site simples usando HTML, CSS e JavaScript",
+        "instituicao": "Fundação Bradesco",
+        "ano": "2023",
+        "arquivo": "crie-um-site-simples-usando-html-css-e-javascript.pdf"
+    },
+
+    {
+        "titulo": "Educação Financeira",
+        "instituicao": "Fundação Bradesco",
+        "ano": "2023",
+        "arquivo": "educação-financeira.pdf"
+    },
+
+    {
+        "titulo": "Fundamentos de TI:HARDWARE E SOFTWAR",
+        "instituicao": "Fundação Bradesco",
+        "ano": "2023",
+        "arquivo": "fundamentos-de-ti-hardware-e-software.pdf"
+    },
+
+    {
+        "titulo": "Microsoft Excel 2016 - Básico",
+        "instituicao": "Fundação Bradesco",
+        "ano": "2023",
+        "arquivo": "microsoftExcel2016-Básico.pdf"
+    },
+
+    {
+        "titulo": "Soluções de IA no GitHub",
+        "instituicao": "Fundação Bradesco",
+        "ano": "2025",
+        "arquivo": "solucoes-de-IA-no-Github.pdf"
+    },
+
+    {
+        "titulo": "Introdução à Análise de Dados com Power BI",
+        "instituicao": "Fundação Bradesco",
+        "ano": "2025",
+        "arquivo": "introducao-analise-de-dados-powerBI.pdf"
+    },
+
+    {
+        "titulo": "Microsoft Excel 2016 - Intermediário",
+        "instituicao": "Fundação Bradesco",
+        "ano": "2024",
+        "arquivo": "microsoftExcel2016-Intermediário.pdf"
+    },
+
+    {
+        "titulo": "Pensamento Computacional",
+        "instituicao": "Fundação Bradesco",
+        "ano": "2025",
+        "arquivo": "pensamento-computacional.pdf"
+    },
+
+    {       
+        "titulo": "Habilitação Profissional Técnica em Informática",
+        "instituicao": "Senac",
+        "ano": "2025",
+        "arquivo": "habilitacao-profissional-tecnica-informatica.pdf"
+    },
+
+    {
+        "titulo": "Assistente de Operação de Redes de Computadores",
+        "instituicao": "Senac",
+        "ano": "2024",
+        "arquivo": "assistente-operacao-redes-computadores.pdf"
+    },
+
+    {
+        "titulo": "Assistente de Suporte e Manutenção de Computadores",
+        "instituicao": "Senac",
+        "ano": "2023",
+        "arquivo": "assistente-suporte--manutencao-computadores.pdf"
+    }
+]
