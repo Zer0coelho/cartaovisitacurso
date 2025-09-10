@@ -74,5 +74,12 @@
         "instituicao": "Senac",
         "ano": "2023",
         "arquivo": "assistente-suporte--manutencao-computadores.pdf"
+    },
+
+    {
+        "titulo": "Engenharia de Prompt para Engenheiros de Software",
+        "instituicao": "Mba USP Esalq",
+        "ano": "2026",
+        "arquivo": "engenharia-de-prompt-para-engenheiros-de-software-.pdf"
     }
 ]
