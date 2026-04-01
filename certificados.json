@@ -81,5 +81,12 @@
         "instituicao": "Mba USP Esalq",
         "ano": "2026",
         "arquivo": "engenharia-de-prompt-para-engenheiros-de-software-.pdf"
+    },
+
+    {
+        "titulo": "INTRODUÇÃO AO MACHINE LEARNING COM PYTHO",
+        "instituicao": "Mba USP Esalq",
+        "ano": "2026",
+        "arquivo": "introducao_ao_machine_learning_com_python.pdf"
     }
 ]
